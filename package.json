@@ -1,0 +1,24 @@
+{
+  "name": "try-lighterhtml",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saintkim12/try-lighterhtml.git"
+  },
+  "author": "saintkim12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saintkim12/try-lighterhtml/issues"
+  },
+  "homepage": "https://github.com/saintkim12/try-lighterhtml#readme",
+  "dependencies": {
+    "lighterhtml": "^2.0.2",
+    "lodash": "^4.17.15",
+    "requirejs": "^2.3.6"
+  }
+}
