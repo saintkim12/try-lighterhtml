@@ -18,7 +18,7 @@
   "homepage": "https://github.com/saintkim12/try-lighterhtml#readme",
   "dependencies": {
     "lighterhtml": "^2.0.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "requirejs": "^2.3.6"
   }
 }
